@@ -1,13 +1,10 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: 碩士, 生態學與演化生物學研究所
+  uni: 國立臺灣大學
+  year: Sep. 2012 - Jun. 2014
+  summary: 以R與SAS統計軟體進行資料探勘與統計分析, 輔以ArcGIS與QGIS等空間分析套裝軟體, 應用於碩士論文研究.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: 學士, 生命科學系
+  uni: 國立臺灣師範大學
+  year: Sep. 2008 - Jun. 2012
+  summary: 學習生物學, 生物統計學與科學研究方法.

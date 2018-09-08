@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# 程式語言
+- skill: 程式語言
+  description: R (data.table, tidyverse, rgdal, raster, sf, sp ,shiny, rvest, httr) speaking, to mentoring, to coordination of people and events, I can lead in any context.
+  description: Python (numpy, pandas, scikit-learn, matplotlib, Tensorflow, Keras, pytorch) 
+  description: MySQL & SQLite
+  
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# 套裝軟體
+- skill: 套裝軟體
+  description: ArcGIS & QGIS
+  description: Inkscape, Illustrator, Photoshop, Indesign

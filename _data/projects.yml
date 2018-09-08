@@ -1,9 +1,18 @@
 # Projects
 - project: 臺灣西部海岸泥灘地變化
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
+  # url: "#"
   description: 利用QGIS處理衛星影像, 計算NDWI指數, 建立SOP, 評估20年間臺灣西部沿海泥灘地變化情形.
 
 - project: 以卷積神經網絡建立蝙蝠聲音影像分類模型
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
+  # url: "#"
   description: 以深度學習中的卷積神經網絡建立自動化蝙蝠聲音分類器
 
 - project: 全球鳥類圖鑑資料庫資訊爬取
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
+  # url: "#"
   description: 以爬蟲技術爬取全球鳥類基本資訊, 並以正規表達式從原始資料內萃取, 量化必要資訊

@@ -1,12 +1,12 @@
 # Skills
 # 程式語言
 - skill: 程式語言
-  description: R (data.table, tidyverse, rgdal, raster, sf, sp ,shiny, rvest, httr) speaking, to mentoring, to coordination of people and events, I can lead in any context.
-               Python (numpy, pandas, scikit-learn, matplotlib, Tensorflow, Keras, pytorch) 
+  description: R (data.table, tidyverse, rgdal, raster, sf, sp ,shiny, rvest, httr)\n 
+  Python (numpy, pandas, scikit-learn, matplotlib, Tensorflow, Keras, pytorch)\n
                MySQL & SQLite
   
 
 # 套裝軟體
 - skill: 套裝軟體
-  description: ArcGIS & QGIS
+  description: ArcGIS & QGIS\n
                Inkscape, Illustrator, Photoshop, Indesign

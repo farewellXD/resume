@@ -1,12 +1,12 @@
 # Skills
 # 程式語言
 - skill: 程式語言
-  description: R (data.table, tidyverse, rgdal, raster, sf, sp ,shiny, rvest, httr)
-  Python (numpy, pandas, scikit-learn, matplotlib, Tensorflow, Keras, pytorch)
-               MySQL & SQLite
+  description: R | Python | MySQL | SQLite
   
 
 # 套裝軟體
-- skill: 套裝軟體
-  description: ArcGIS & QGIS
-               Inkscape, Illustrator, Photoshop, Indesign
+- skill: 空間分析軟體
+  description: ArcGIS | QGIS
+
+- skill: 繪圖軟體
+  description: Inkscape | Illustrator | Photoshop | Indesign

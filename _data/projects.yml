@@ -1,6 +1,3 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
 # 臺灣西部海岸泥灘地變化
 - project: 臺灣西部海岸泥灘地變化
   description: 利用QGIS處理衛星影像, 計算NDWI指數, 建立SOP, 評估20年間臺灣西部沿海泥灘地變化情形.

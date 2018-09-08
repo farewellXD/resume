@@ -23,8 +23,7 @@ resume_contact_telephone:       "+886 980-068-628"
 resume_header_contact_info:     "+886 980-068-628 • farewell23221@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>期勉自身運用邏輯思維, 統計觀念與程式編寫能力, 有效解決問題.</p>" 
-                     "<p>對於未知的挑戰能保持好奇與不畏懼心態, 透過資料的各面相探討可能的解法與策略. </p>"
+resume_header_intro: "<p>期勉自身運用邏輯思維, 統計觀念與程式編寫能力, 有效解決問題.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

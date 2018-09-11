@@ -151,12 +151,16 @@
           <>
           
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          {% for skills in site.data.skills %}
-            <li>{{ skill.description }}</li>
-            <p> </p>
+          
+          <ul class="resume-item-list">
+            {% for skills in site.data.skills %}
+              <li>{{ skill.description }}</li>
+              <p> </p>
+            {% endfor %}
+          </ul>
           #<p class="resume-item-copy">{{ skill.description }}</p>
         </div>
-          {% endfor %}
+         
         {% endfor %}
         
       </section>

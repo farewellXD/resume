@@ -1,12 +1,15 @@
 # Skills
 # 程式語言
 - skill: 程式語言
-- description: R | Python | MySQL | SQLite
-- description: R | Python | MySQL | SQLite
+  Q1: data processing pipeline with R and Python 
+  Q2: Web development in R 
+  Q3: automatic data processing
+  Q4: Basic CRUD Functionality with MySQL
+
 
 # 套裝軟體
 - skill: 空間分析軟體
-- description: ArcGIS | QGIS
+  description: spatial analysis withh ArcGIS and QGIS
 
 - skill: 繪圖軟體
-- description: Inkscape | Illustrator | Photoshop | Indesign
+  description: Inkscape | Illustrator | Photoshop | Indesign

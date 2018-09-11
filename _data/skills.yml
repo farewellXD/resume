@@ -1,10 +1,8 @@
 # Skills
 # 程式語言
-- skill: 程式語言
-  description: Data processing pipeline with R and Python 
-  description: Web development in R 
-  description: Automatic data processing
-  description: Basic CRUD Functionality with MySQL
+- skill: 程式編程
+  description: Data processing pipeline & web development with R and Python, also familiar with automatic data processing.
+               Basic CRUD Functionality with MySQL.
 
 
 # 套裝軟體

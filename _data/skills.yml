@@ -1,12 +1,12 @@
 # Skills
 # 程式語言
 - skill: 程式語言
-  description: R | Python | MySQL | SQLite
-  description: R | Python | MySQL | SQLite
+- description: R | Python | MySQL | SQLite
+- description: R | Python | MySQL | SQLite
 
 # 套裝軟體
 - skill: 空間分析軟體
-  description: ArcGIS | QGIS
+- description: ArcGIS | QGIS
 
 - skill: 繪圖軟體
-  description: Inkscape | Illustrator | Photoshop | Indesign
+- description: Inkscape | Illustrator | Photoshop | Indesign

@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "呂亞融    Ya-Jung Lu"
-resume_title:                   "Research Technician · Data Analysist"
+resume_title:                   "Research Technician · Data Analyst"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "farewell23221@gmail.com"
